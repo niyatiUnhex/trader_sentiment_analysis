@@ -9,20 +9,35 @@ This repository contains my solution to the Data Science assignment by the Web3 
 ## 📁 Project Structure
 ds_niyati_sharma/
 ├── notebook_1.ipynb # Main Colab notebook with full analysis
+
 ├── csv_files/ # Processed data files
+
 │ └── summary_stats_by_sentiment.csv
+
 | └──summary_stats_by_sentiment.csv
+
 | ├──fear_greed_index.csv
+
 ├── outputs/ # Graphs and visualizations
+
 │ ├── pnl_by_sentiment.png
+
 │ ├── timeseries_pnl.png
+
 │ ├──heatmap_correlation.png
+
 | ├──timeseries_sizeusd.png
+
 | ├──timeseries_executionprice.png
+
 | ├──timeseries_dualaxis.png
+
 | ├──scatter_leverage_pnl.png
+
 | ├──start_position_log_hist.png
+
 ├── ds_report.pdf # Final report with insights
+
 └── README.md # This file
 
 ---
